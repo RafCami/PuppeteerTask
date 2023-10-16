@@ -1,4 +1,5 @@
 import puppeteer from 'puppeteer';
+import fs from 'fs';
 
 // Scrape Playstations
 async function scrapePlaystations() {
@@ -12,19 +13,24 @@ async function scrapePlaystations() {
   const products = await page.$$eval('.product-card', (rows) => {
     return rows.map((row) => ({
       productTitle: row.querySelector('.product-card__title').textContent.trim(),
-      price: row.querySelector('.sales-price__current').textContent.trim(),
+      price: parseInt(row.querySelector('.sales-price__current').textContent.trim().replace(',-', '')),
       // TODO: Voeg beschikbaarheid toe
       available: row.querySelector('.icon-with-text__text') ? true : false,
     }));
   });
 
   const filteredProducts = products.filter((product) => {
-    product.price > 600;
+    return product.price > 600;
   });
 
-  console.log(pageTitle);
-  console.log(products);
-  console.log(filteredProducts);
+  fs.writeFile('./filteredProducts.json', JSON.stringify(filteredProducts), (err) => {
+    if (err) throw err;
+    console.log('filteredProducts array has been written to filteredProducts.json');
+  });
+
+  // console.log(pageTitle);
+  // console.log(products);
+  // console.log(filteredProducts);
 
   await browser.close();
 }
