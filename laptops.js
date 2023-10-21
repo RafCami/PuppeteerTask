@@ -23,38 +23,54 @@ async function scrapeLaptops() {
   // });
 
   //get all links to the product pages
+  //skip items not in stock
   const productPages = await windowsPage.$$eval('.product-card', (rows) => {
     return rows.map((row) => (
-      (row.querySelector('.icon-with-text__text')) ? row.querySelector('.product-card__title').getElementsByTagName('a')[0].href : ""
-    ));
+      (row.querySelector('.icon-with-text__text')) ? row.querySelector('.product-card__title').getElementsByTagName('a')[0].href : null
+    )).filter((url) => (url != null));
   });
   // console.log(productPages);
 
   //goto each page to get the product details
   const products = [];
-  for (let i = 0; i < productPages.length; i++) {
+  // for (let i = 0; i < productPages.length; i++) {
+  for (let i = 0; i < 1; i++) {
     const url = productPages[i]
-    if (url == "") continue;
-    let productPage = await browser.newPage();
-    await productPage.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36');
-    await productPage.goto(`${url}`, { waitUntil: 'networkidle0' });
+    let productPage = await browser.newPage()
+    await productPage.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36')
+    await productPage.goto(`${url}`, { waitUntil: 'networkidle0' })
+    //get data from page
     const pageContent = await productPage.$$eval('body', (element) => {
         const title = element[0].querySelector('.js-product-name').textContent.trim()
         const price = parseInt(element[0].querySelector('.js-sales-price-current').textContent.trim().replace(',-', '').replace('.', ''))
         const available = element[0].querySelector('.icon-with-text__text') ? true : false
-
+        //get number of reviews using regex
+        const reviewsString = element[0].querySelector('.review-rating__reviews').textContent.trim()
+        const regex = /(\d+)\s+reviews/
+        const match = reviewsString.match(regex)
+        const reviews = match ? parseInt(match[1]) : 0
+        console.log('ready to get specs')
+        // get specs
+        const specTable = element[0].querySelector('.js-preferred-specifications')
+        const containsclass = specTable.innerHTML.includes('js-spec-title')
+        // const specTable = [ element[0].querySelector('.product-specs').querySelectorAll('.js-spec-title'),
+        //                     element[0].querySelector('.product-specs').querySelectorAll('.js-spec-value')]
+        // console.log(specTable[0] + ' : ' + specTable[1]);
         return {
           productTitle: title,
           price: price,
+          reviews: reviews,
           available: available,
+          specs : containsclass
         }
       })
-    console.log(pageContent);
+      
+    console.log(pageContent.specs);
     // screen: row.querySelector('.product-specs__table').getElementsByTagName('tr')[0].getElementsByTagName('td')[1].textContent.trim(),
     products.push(pageContent)
     productPage.close()
   }
-  console.log(products);
+  // console.log(products);
 
 
 
