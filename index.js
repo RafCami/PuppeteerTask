@@ -4,5 +4,7 @@ import { MovieList } from "./moviesMain.js";
 import { scrapeMoviesByGenre } from "./moviesScrape.js";
 
 // scrapeLaptops();
-// MovieList();
-scrapeMoviesByGenre('Horror', 2);
+MovieList();
+// const movies = await scrapeMoviesByGenre('Horror');
+
+// console.log(movies);
