@@ -1,326 +1,321 @@
 [
   {
-    "Title": "Modern Family",
-    "Year": 2009,
-    "Runtime": 22,
-    "Rating": "TV-PG",
-    "Score": 8.5,
-    "MetaScore": 0,
-    "Link": "https://www.imdb.com/title/tt1442437/?ref_=adv_li_tt",
-    "Genres": ["Comedy", "Drama", "Romance"],
-    "Director": { "Name": "", "link": "" },
-    "Stars": [
-      {
-        "Name": "Ed O'Neill",
-        "link": "https://www.imdb.com/name/nm0642145/?ref_=adv_li_st_0"
-      },
-      {
-        "Name": "Sofía Vergara",
-        "link": "https://www.imdb.com/name/nm0005527/?ref_=adv_li_st_1"
-      },
-      {
-        "Name": "Julie Bowen",
-        "link": "https://www.imdb.com/name/nm0100866/?ref_=adv_li_st_2"
-      },
-      {
-        "Name": "Ty Burrell",
-        "link": "https://www.imdb.com/name/nm0123092/?ref_=adv_li_st_3"
-      }
-    ]
-  },
-  {
-    "Title": "Only Murders in the Building",
-    "Year": 2021,
-    "Runtime": 30,
-    "Rating": "TV-MA",
-    "Score": 8.1,
-    "MetaScore": 0,
-    "Link": "https://www.imdb.com/title/tt11691774/?ref_=adv_li_tt",
-    "Genres": ["Comedy", "Crime", "Drama"],
-    "Director": { "Name": "", "link": "" },
-    "Stars": [
-      {
-        "Name": "Steve Martin",
-        "link": "https://www.imdb.com/name/nm0000188/?ref_=adv_li_st_0"
-      },
-      {
-        "Name": "Martin Short",
-        "link": "https://www.imdb.com/name/nm0001737/?ref_=adv_li_st_1"
-      },
-      {
-        "Name": "Selena Gomez",
-        "link": "https://www.imdb.com/name/nm1411125/?ref_=adv_li_st_2"
-      },
-      {
-        "Name": "Michael Cyril Creighton",
-        "link": "https://www.imdb.com/name/nm1644112/?ref_=adv_li_st_3"
-      }
-    ]
-  },
-  {
-    "Title": "Chucky",
-    "Year": 2021,
-    "Runtime": 42,
-    "Rating": "TV-MA",
-    "Score": 7.3,
-    "MetaScore": 0,
-    "Link": "https://www.imdb.com/title/tt8388390/?ref_=adv_li_tt",
-    "Genres": ["Comedy", "Horror", "Thriller"],
-    "Director": { "Name": "", "link": "" },
-    "Stars": [
-      {
-        "Name": "Zackary Arthur",
-        "link": "https://www.imdb.com/name/nm6236879/?ref_=adv_li_st_0"
-      },
-      {
-        "Name": "Bjorgvin Arnarson",
-        "link": "https://www.imdb.com/name/nm10947938/?ref_=adv_li_st_1"
-      },
-      {
-        "Name": "Alyvia Alyn Lind",
-        "link": "https://www.imdb.com/name/nm4865040/?ref_=adv_li_st_2"
-      },
-      {
-        "Name": "Brad Dourif",
-        "link": "https://www.imdb.com/name/nm0000374/?ref_=adv_li_st_3"
-      }
-    ]
-  },
-  {
-    "Title": "It Lives Inside",
-    "Year": 2023,
-    "Runtime": 99,
-    "Rating": "PG-13",
-    "Score": 5.3,
-    "MetaScore": 50,
-    "Link": "https://www.imdb.com/title/tt15683734/?ref_=adv_li_tt",
+    "Title": "Pearl",
+    "Year": 2022,
+    "Runtime": 103,
+    "Rating": "R",
+    "Score": 7,
+    "MetaScore": 76,
+    "Link": "https://www.imdb.com/title/tt18925334/?ref_=adv_li_tt",
     "Genres": ["Drama", "Horror", "Thriller"],
     "Director": {
-      "Name": "Bishal Dutta",
-      "link": "https://www.imdb.com/name/nm7136559/?ref_=adv_li_dr_0"
+      "Name": "Ti West",
+      "link": "https://www.imdb.com/name/nm1488800/?ref_=adv_li_dr_0"
     },
     "Stars": [
       {
-        "Name": "Megan Suri",
-        "link": "https://www.imdb.com/name/nm3514372/?ref_=adv_li_st_0"
+        "Name": "Mia Goth",
+        "link": "https://www.imdb.com/name/nm5301405/?ref_=adv_li_st_0"
       },
       {
-        "Name": "Neeru Bajwa",
-        "link": "https://www.imdb.com/name/nm1263093/?ref_=adv_li_st_1"
+        "Name": "David Corenswet",
+        "link": "https://www.imdb.com/name/nm4825178/?ref_=adv_li_st_1"
       },
       {
-        "Name": "Mohana Krishnan",
-        "link": "https://www.imdb.com/name/nm8860518/?ref_=adv_li_st_2"
+        "Name": "Tandi Wright",
+        "link": "https://www.imdb.com/name/nm0942858/?ref_=adv_li_st_2"
       },
       {
-        "Name": "Betty Gabriel",
-        "link": "https://www.imdb.com/name/nm3340597/?ref_=adv_li_st_3"
+        "Name": "Matthew Sunderland",
+        "link": "https://www.imdb.com/name/nm0839146/?ref_=adv_li_st_3"
       }
     ]
   },
   {
-    "Title": "V/H/S/85",
+    "Title": "Pet Sematary: Bloodlines",
     "Year": 2023,
-    "Runtime": 110,
-    "Rating": "",
-    "Score": 5.7,
-    "MetaScore": 53,
-    "Link": "https://www.imdb.com/title/tt22640398/?ref_=adv_li_tt",
-    "Genres": ["Horror", "Thriller"],
-    "Director": { "Name": "", "link": "" },
+    "Runtime": 87,
+    "Rating": "R",
+    "Score": 4.7,
+    "MetaScore": 31,
+    "Link": "https://www.imdb.com/title/tt14145436/?ref_=adv_li_tt",
+    "Genres": ["Fantasy", "Horror"],
+    "Director": {
+      "Name": "Lindsey Anderson Beer",
+      "link": "https://www.imdb.com/name/nm5170222/?ref_=adv_li_dr_0"
+    },
     "Stars": [
       {
-        "Name": "David Bruckner",
-        "link": "https://www.imdb.com/name/nm1410159/?ref_=adv_li_dr_0"
+        "Name": "Jackson White",
+        "link": "https://www.imdb.com/name/nm7878293/?ref_=adv_li_st_0"
       },
       {
-        "Name": "Scott Derrickson",
-        "link": "https://www.imdb.com/name/nm0220600/?ref_=adv_li_dr_1"
+        "Name": "Natalie Alyn Lind",
+        "link": "https://www.imdb.com/name/nm2480636/?ref_=adv_li_st_1"
       },
       {
-        "Name": "Natasha Kermani",
-        "link": "https://www.imdb.com/name/nm2992403/?ref_=adv_li_dr_2"
+        "Name": "Forrest Goodluck",
+        "link": "https://www.imdb.com/name/nm5569442/?ref_=adv_li_st_2"
       },
       {
-        "Name": "Mike P. Nelson",
-        "link": "https://www.imdb.com/name/nm2298645/?ref_=adv_li_dr_3"
-      },
-      {
-        "Name": "Gigi Saul Guerrero",
-        "link": "https://www.imdb.com/name/nm4464117/?ref_=adv_li_dr_4"
-      },
-      {
-        "Name": "Gigi Saul Guerrero",
-        "link": "https://www.imdb.com/name/nm4464117/?ref_=adv_li_st_0"
-      },
-      {
-        "Name": "James Ransone",
-        "link": "https://www.imdb.com/name/nm0710447/?ref_=adv_li_st_1"
-      },
-      {
-        "Name": "Kelli Garner",
-        "link": "https://www.imdb.com/name/nm0307726/?ref_=adv_li_st_2"
-      },
-      {
-        "Name": "Freddy Rodríguez",
-        "link": "https://www.imdb.com/name/nm0135585/?ref_=adv_li_st_3"
+        "Name": "Isabella LaBlanc",
+        "link": "https://www.imdb.com/name/nm8285356/?ref_=adv_li_st_3"
       }
     ]
   },
   {
-    "Title": "Attack on Titan",
-    "Year": 2013,
-    "Runtime": 24,
-    "Rating": "TV-MA",
-    "Score": 9,
+    "Title": "Asteroid City",
+    "Year": 2023,
+    "Runtime": 105,
+    "Rating": "PG-13",
+    "Score": 6.6,
+    "MetaScore": 75,
+    "Link": "https://www.imdb.com/title/tt14230388/?ref_=adv_li_tt",
+    "Genres": ["Comedy", "Drama", "Romance"],
+    "Director": {
+      "Name": "Wes Anderson",
+      "link": "https://www.imdb.com/name/nm0027572/?ref_=adv_li_dr_0"
+    },
+    "Stars": [
+      {
+        "Name": "Jason Schwartzman",
+        "link": "https://www.imdb.com/name/nm0005403/?ref_=adv_li_st_0"
+      },
+      {
+        "Name": "Scarlett Johansson",
+        "link": "https://www.imdb.com/name/nm0424060/?ref_=adv_li_st_1"
+      },
+      {
+        "Name": "Tom Hanks",
+        "link": "https://www.imdb.com/name/nm0000158/?ref_=adv_li_st_2"
+      },
+      {
+        "Name": "Jeffrey Wright",
+        "link": "https://www.imdb.com/name/nm0942482/?ref_=adv_li_st_3"
+      }
+    ]
+  },
+  {
+    "Title": "The Thing",
+    "Year": 1982,
+    "Runtime": 109,
+    "Rating": "R",
+    "Score": 8.2,
+    "MetaScore": 57,
+    "Link": "https://www.imdb.com/title/tt0084787/?ref_=adv_li_tt",
+    "Genres": ["Horror", "Mystery", "Sci-Fi"],
+    "Director": {
+      "Name": "John Carpenter",
+      "link": "https://www.imdb.com/name/nm0000118/?ref_=adv_li_dr_0"
+    },
+    "Stars": [
+      {
+        "Name": "Kurt Russell",
+        "link": "https://www.imdb.com/name/nm0000621/?ref_=adv_li_st_0"
+      },
+      {
+        "Name": "Wilford Brimley",
+        "link": "https://www.imdb.com/name/nm0000979/?ref_=adv_li_st_1"
+      },
+      {
+        "Name": "Keith David",
+        "link": "https://www.imdb.com/name/nm0202966/?ref_=adv_li_st_2"
+      },
+      {
+        "Name": "Richard Masur",
+        "link": "https://www.imdb.com/name/nm0557956/?ref_=adv_li_st_3"
+      }
+    ]
+  },
+  {
+    "Title": "Robin Hood: Prince of Thieves",
+    "Year": 1991,
+    "Runtime": 143,
+    "Rating": "PG-13",
+    "Score": 6.9,
+    "MetaScore": 51,
+    "Link": "https://www.imdb.com/title/tt0102798/?ref_=adv_li_tt",
+    "Genres": ["Action", "Adventure", "Drama"],
+    "Director": {
+      "Name": "Kevin Reynolds",
+      "link": "https://www.imdb.com/name/nm0721817/?ref_=adv_li_dr_0"
+    },
+    "Stars": [
+      {
+        "Name": "Kevin Costner",
+        "link": "https://www.imdb.com/name/nm0000126/?ref_=adv_li_st_0"
+      },
+      {
+        "Name": "Morgan Freeman",
+        "link": "https://www.imdb.com/name/nm0000151/?ref_=adv_li_st_1"
+      },
+      {
+        "Name": "Mary Elizabeth Mastrantonio",
+        "link": "https://www.imdb.com/name/nm0001512/?ref_=adv_li_st_2"
+      },
+      {
+        "Name": "Christian Slater",
+        "link": "https://www.imdb.com/name/nm0000225/?ref_=adv_li_st_3"
+      }
+    ]
+  },
+  {
+    "Title": "Poor Things",
+    "Year": 2023,
+    "Runtime": 141,
+    "Rating": "R",
+    "Score": 8.5,
+    "MetaScore": 94,
+    "Link": "https://www.imdb.com/title/tt14230458/?ref_=adv_li_tt",
+    "Genres": ["Romance", "Sci-Fi"],
+    "Director": {
+      "Name": "Yorgos Lanthimos",
+      "link": "https://www.imdb.com/name/nm0487166/?ref_=adv_li_dr_0"
+    },
+    "Stars": [
+      {
+        "Name": "Emma Stone",
+        "link": "https://www.imdb.com/name/nm1297015/?ref_=adv_li_st_0"
+      },
+      {
+        "Name": "Mark Ruffalo",
+        "link": "https://www.imdb.com/name/nm0749263/?ref_=adv_li_st_1"
+      },
+      {
+        "Name": "Willem Dafoe",
+        "link": "https://www.imdb.com/name/nm0000353/?ref_=adv_li_st_2"
+      },
+      {
+        "Name": "Ramy Youssef",
+        "link": "https://www.imdb.com/name/nm3858973/?ref_=adv_li_st_3"
+      }
+    ]
+  },
+  {
+    "Title": "The Hunger Games: The Ballad of Songbirds and Snakes",
+    "Year": 2023,
+    "Runtime": 165,
+    "Rating": "PG-13",
+    "Score": 0,
     "MetaScore": 0,
-    "Link": "https://www.imdb.com/title/tt2560140/?ref_=adv_li_tt",
-    "Genres": ["Animation", "Action", "Adventure"],
-    "Director": { "Name": "", "link": "" },
+    "Link": "https://www.imdb.com/title/tt10545296/?ref_=adv_li_tt",
+    "Genres": ["Action", "Adventure", "Drama"],
+    "Director": {
+      "Name": "Francis Lawrence",
+      "link": "https://www.imdb.com/name/nm1349376/?ref_=adv_li_dr_0"
+    },
     "Stars": [
       {
-        "Name": "Josh Grelle",
-        "link": "https://www.imdb.com/name/nm2171329/?ref_=adv_li_st_0"
+        "Name": "Rachel Zegler",
+        "link": "https://www.imdb.com/name/nm10399505/?ref_=adv_li_st_0"
       },
       {
-        "Name": "Bryce Papenbrook",
-        "link": "https://www.imdb.com/name/nm0745310/?ref_=adv_li_st_1"
+        "Name": "Tom Blyth",
+        "link": "https://www.imdb.com/name/nm3880241/?ref_=adv_li_st_1"
       },
       {
-        "Name": "Yûki Kaji",
-        "link": "https://www.imdb.com/name/nm2569233/?ref_=adv_li_st_2"
+        "Name": "Viola Davis",
+        "link": "https://www.imdb.com/name/nm0205626/?ref_=adv_li_st_2"
       },
       {
-        "Name": "Yui Ishikawa",
-        "link": "https://www.imdb.com/name/nm3426369/?ref_=adv_li_st_3"
+        "Name": "Dexter Sol Ansell",
+        "link": "https://www.imdb.com/name/nm11274700/?ref_=adv_li_st_3"
       }
     ]
   },
   {
-    "Title": "Spider-Man: Across the Spider-Verse",
-    "Year": 2023,
-    "Runtime": 140,
-    "Rating": "PG",
-    "Score": 8.7,
-    "MetaScore": 86,
-    "Link": "https://www.imdb.com/title/tt9362722/?ref_=adv_li_tt",
-    "Genres": ["Animation", "Action", "Adventure"],
-    "Director": { "Name": "", "link": "" },
+    "Title": "Gladiator",
+    "Year": 2000,
+    "Runtime": 155,
+    "Rating": "R",
+    "Score": 8.5,
+    "MetaScore": 67,
+    "Link": "https://www.imdb.com/title/tt0172495/?ref_=adv_li_tt",
+    "Genres": ["Action", "Adventure", "Drama"],
+    "Director": {
+      "Name": "Ridley Scott",
+      "link": "https://www.imdb.com/name/nm0000631/?ref_=adv_li_dr_0"
+    },
     "Stars": [
       {
-        "Name": "Joaquim Dos Santos",
-        "link": "https://www.imdb.com/name/nm1690966/?ref_=adv_li_dr_0"
+        "Name": "Russell Crowe",
+        "link": "https://www.imdb.com/name/nm0000128/?ref_=adv_li_st_0"
       },
       {
-        "Name": "Kemp Powers",
-        "link": "https://www.imdb.com/name/nm5358492/?ref_=adv_li_dr_1"
+        "Name": "Joaquin Phoenix",
+        "link": "https://www.imdb.com/name/nm0001618/?ref_=adv_li_st_1"
       },
       {
-        "Name": "Justin K. Thompson",
-        "link": "https://www.imdb.com/name/nm1042511/?ref_=adv_li_dr_2"
+        "Name": "Connie Nielsen",
+        "link": "https://www.imdb.com/name/nm0001567/?ref_=adv_li_st_2"
       },
       {
-        "Name": "Shameik Moore",
-        "link": "https://www.imdb.com/name/nm4271336/?ref_=adv_li_st_0"
-      },
-      {
-        "Name": "Hailee Steinfeld",
-        "link": "https://www.imdb.com/name/nm2794962/?ref_=adv_li_st_1"
-      },
-      {
-        "Name": "Brian Tyree Henry",
-        "link": "https://www.imdb.com/name/nm3109964/?ref_=adv_li_st_2"
-      },
-      {
-        "Name": "Luna Lauren Velez",
-        "link": "https://www.imdb.com/name/nm0904967/?ref_=adv_li_st_3"
+        "Name": "Oliver Reed",
+        "link": "https://www.imdb.com/name/nm0001657/?ref_=adv_li_st_3"
       }
     ]
   },
   {
-    "Title": "The Mandalorian",
+    "Title": "Ma",
     "Year": 2019,
-    "Runtime": 40,
-    "Rating": "TV-14",
-    "Score": 8.7,
-    "MetaScore": 0,
-    "Link": "https://www.imdb.com/title/tt8111088/?ref_=adv_li_tt",
-    "Genres": ["Action", "Adventure", "Fantasy"],
-    "Director": { "Name": "", "link": "" },
+    "Runtime": 99,
+    "Rating": "R",
+    "Score": 5.6,
+    "MetaScore": 53,
+    "Link": "https://www.imdb.com/title/tt7958736/?ref_=adv_li_tt",
+    "Genres": ["Horror", "Mystery", "Thriller"],
+    "Director": {
+      "Name": "Tate Taylor",
+      "link": "https://www.imdb.com/name/nm0853238/?ref_=adv_li_dr_0"
+    },
     "Stars": [
       {
-        "Name": "Pedro Pascal",
-        "link": "https://www.imdb.com/name/nm0050959/?ref_=adv_li_st_0"
+        "Name": "Octavia Spencer",
+        "link": "https://www.imdb.com/name/nm0818055/?ref_=adv_li_st_0"
       },
       {
-        "Name": "Chris Bartlett",
-        "link": "https://www.imdb.com/name/nm2322864/?ref_=adv_li_st_1"
+        "Name": "Diana Silvers",
+        "link": "https://www.imdb.com/name/nm9537602/?ref_=adv_li_st_1"
       },
       {
-        "Name": "Katee Sackhoff",
-        "link": "https://www.imdb.com/name/nm0755267/?ref_=adv_li_st_2"
+        "Name": "Juliette Lewis",
+        "link": "https://www.imdb.com/name/nm0000496/?ref_=adv_li_st_2"
       },
       {
-        "Name": "Carl Weathers",
-        "link": "https://www.imdb.com/name/nm0001835/?ref_=adv_li_st_3"
+        "Name": "McKaley Miller",
+        "link": "https://www.imdb.com/name/nm3591790/?ref_=adv_li_st_3"
       }
     ]
   },
   {
-    "Title": "Castle",
-    "Year": 2009,
-    "Runtime": 43,
-    "Rating": "TV-14",
-    "Score": 8.1,
-    "MetaScore": 0,
-    "Link": "https://www.imdb.com/title/tt1219024/?ref_=adv_li_tt",
-    "Genres": ["Comedy", "Crime", "Drama"],
-    "Director": { "Name": "", "link": "" },
+    "Title": "Saw",
+    "Year": 2004,
+    "Runtime": 103,
+    "Rating": "R",
+    "Score": 7.6,
+    "MetaScore": 46,
+    "Link": "https://www.imdb.com/title/tt0387564/?ref_=adv_li_tt",
+    "Genres": ["Horror", "Mystery", "Thriller"],
+    "Director": {
+      "Name": "James Wan",
+      "link": "https://www.imdb.com/name/nm1490123/?ref_=adv_li_dr_0"
+    },
     "Stars": [
       {
-        "Name": "Nathan Fillion",
-        "link": "https://www.imdb.com/name/nm0277213/?ref_=adv_li_st_0"
+        "Name": "Cary Elwes",
+        "link": "https://www.imdb.com/name/nm0000144/?ref_=adv_li_st_0"
       },
       {
-        "Name": "Stana Katic",
-        "link": "https://www.imdb.com/name/nm1065664/?ref_=adv_li_st_1"
+        "Name": "Leigh Whannell",
+        "link": "https://www.imdb.com/name/nm1191481/?ref_=adv_li_st_1"
       },
       {
-        "Name": "Susan Sullivan",
-        "link": "https://www.imdb.com/name/nm0838360/?ref_=adv_li_st_2"
+        "Name": "Danny Glover",
+        "link": "https://www.imdb.com/name/nm0000418/?ref_=adv_li_st_2"
       },
       {
-        "Name": "Jon Huertas",
-        "link": "https://www.imdb.com/name/nm0005030/?ref_=adv_li_st_3"
-      }
-    ]
-  },
-  {
-    "Title": "Top Boy",
-    "Year": 2011,
-    "Runtime": 60,
-    "Rating": "TV-MA",
-    "Score": 8.4,
-    "MetaScore": 0,
-    "Link": "https://www.imdb.com/title/tt1830379/?ref_=adv_li_tt",
-    "Genres": ["Crime", "Drama", "Thriller"],
-    "Director": { "Name": "", "link": "" },
-    "Stars": [
-      {
-        "Name": "Ashley Walters",
-        "link": "https://www.imdb.com/name/nm0910180/?ref_=adv_li_st_0"
-      },
-      {
-        "Name": "Kano",
-        "link": "https://www.imdb.com/name/nm1872945/?ref_=adv_li_st_1"
-      },
-      {
-        "Name": "Jasmine Jobson",
-        "link": "https://www.imdb.com/name/nm6157473/?ref_=adv_li_st_2"
-      },
-      {
-        "Name": "Little Simz",
-        "link": "https://www.imdb.com/name/nm3787576/?ref_=adv_li_st_3"
+        "Name": "Ken Leung",
+        "link": "https://www.imdb.com/name/nm0504962/?ref_=adv_li_st_3"
       }
     ]
   }

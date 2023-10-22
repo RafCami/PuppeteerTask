@@ -6,8 +6,8 @@ async function scrapeLaptops() {
   const browser = await puppeteer.launch({ headless: "new" });
   //array of pages to scrape
   const scrapePages = [
-    "https://www.coolblue.be/nl/laptops/kleine-windows-laptops/prijs:-1500/intern-werkgeheugen-ram:16000000000/processor:intel-core-i7",
-    "https://www.coolblue.be/nl/laptops/apple-macbook/filter/intern-werkgeheugen-ram:16000000000/prijs:-1500",
+    "https://www.coolblue.be/nl/laptops/windows/filter/schermdiagonaal:0.3302-0.35052/processor:intel-core-i7/intern-werkgeheugen-ram:16000000000,32000000000/totale-opslagcapaciteit:500000000000-512000000000,1000000000000",
+    "https://www.coolblue.be/nl/laptops/apple-macbook/filter/schermdiagonaal:0.3302-0.35052,0.35306-0.37846/opslagcapaciteit-van-ssd:512000000000,1000000000000/intern-werkgeheugen-ram:16000000000/processor-macbook:apple-m1,apple-m2",
   ];
 
   const products = [];
@@ -86,7 +86,7 @@ async function scrapeLaptops() {
         spectableContent[0] = spectableContent[0].map((key) => {
           return (
             key.charAt(0).toLowerCase() +
-            key.slice(1).replace(/(?:^|\s)\S/g, function (a) {
+            key.slice(1).replace(/(?:\s)\S/g, function (a) {
               return a.toUpperCase().trim();
             })
           ).replace(/[()\.\-]/g, "");

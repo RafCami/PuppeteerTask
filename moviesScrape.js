@@ -8,6 +8,7 @@ async function scrapeMoviesByGenre(genre, numberOfMovies = 1) {
   );
   await page.goto(
     `https://www.imdb.com/search/title/?genres=${genre}&explore=genres&title_type=movie`,
+    //swap links to include tv shows
     // `https://www.imdb.com/search/title/?genres=${genre}&explore=genres`,
     { waitUntil: "networkidle0" }
   );

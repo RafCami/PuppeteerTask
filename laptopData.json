@@ -5,126 +5,30 @@
     "reviews": 2,
     "available": true,
     "specifications": {
-      "Schermdiagonaal": 13,
-      "Processor": "Intel Core i7",
-      "InternWerkgeheugenRAM": 16,
-      "TotaleOpslagcapaciteit": 1,
-      "VideokaartChipset": "Intel UHD Graphics",
-      "AanbevolenVoorGebruik": "Films kijken in Full HD, Foto's bewerken, Internet, e-mail en tekstverwerken, Onderweg, Studie, Video's bewerken",
-      "Paneeltype": "OLED",
-      "BouwkwaliteitLaptops": "Middenklasse"
+      "schermdiagonaal": 13,
+      "processor": "Intel Core i7",
+      "internWerkgeheugenRAM": 16,
+      "totaleOpslagcapaciteit": 1,
+      "videokaartChipset": "Intel UHD Graphics",
+      "aanbevolenVoorGebruik": "Films kijken in Full HD, Foto's bewerken, Internet, e-mail en tekstverwerken, Onderweg, Studie, Video's bewerken",
+      "paneeltype": "OLED",
+      "bouwkwaliteitLaptops": "Middenklasse"
     }
   },
   {
-    "productTitle": "Lenovo ThinkBook 14s Yoga G2 IAP - 21DM002PMB Azerty",
-    "price": 1149,
-    "reviews": 0,
+    "productTitle": "Microsoft Surface Pro 9 - 13\" - Intel Core i7 - 16GB RAM/1TB SSD - PLATINUM",
+    "price": 2529,
+    "reviews": 16,
     "available": true,
     "specifications": {
-      "Schermdiagonaal": 14,
-      "Processor": "Intel Core i7",
-      "InternWerkgeheugenRAM": 16,
-      "TotaleOpslagcapaciteit": 512,
-      "VideokaartChipset": "Intel Iris Xe Graphics",
-      "AanbevolenVoorGebruik": "Films kijken in Full HD, Foto's bewerken, Internet, e-mail en tekstverwerken, Onderweg, Studie, Video's bewerken, Zakelijk gebruik",
-      "Paneeltype": "IPS paneel",
-      "BouwkwaliteitLaptops": "Topklasse"
-    }
-  },
-  {
-    "productTitle": "Lenovo Yoga Slim 6 OLED 14IAP8 82WU008VMB Azerty",
-    "price": 1079,
-    "reviews": 0,
-    "available": true,
-    "specifications": {
-      "Schermdiagonaal": 14,
-      "Processor": "Intel Core i7",
-      "InternWerkgeheugenRAM": 16,
-      "TotaleOpslagcapaciteit": 1,
-      "VideokaartChipset": "Intel UHD Graphics",
-      "AanbevolenVoorGebruik": "Films kijken in Full HD, Foto's bewerken, Internet, e-mail en tekstverwerken, Onderweg, Studie, Video's bewerken",
-      "Paneeltype": "OLED",
-      "BouwkwaliteitLaptops": "Topklasse"
-    }
-  },
-  {
-    "productTitle": "Lenovo Thinkpad E14 G4 - 21E300DCMB Azerty",
-    "price": 1109,
-    "reviews": 0,
-    "available": true,
-    "specifications": {
-      "Schermdiagonaal": 14,
-      "Processor": "Intel Core i7",
-      "InternWerkgeheugenRAM": 16,
-      "TotaleOpslagcapaciteit": 512,
-      "VideokaartChipset": "Intel Iris Xe Graphics",
-      "AanbevolenVoorGebruik": "Films kijken in Full HD, Foto's bewerken, Internet, e-mail en tekstverwerken, Studie, Video's bewerken, Zakelijk gebruik",
-      "Paneeltype": "IPS paneel",
-      "BouwkwaliteitLaptops": "Topklasse"
-    }
-  },
-  {
-    "productTitle": "Asus Zenbook 14 OLED UX3402VA-KM157W-BE Azerty",
-    "price": 1499,
-    "reviews": 0,
-    "available": true,
-    "specifications": {
-      "Schermdiagonaal": 14,
-      "Processor": "Intel Core i7",
-      "InternWerkgeheugenRAM": 16,
-      "TotaleOpslagcapaciteit": 1,
-      "VideokaartChipset": "Intel Iris Xe Graphics",
-      "AanbevolenVoorGebruik": "Films kijken in Full HD, Foto's bewerken, Internet, e-mail en tekstverwerken, Onderweg, Studie, Video's bewerken",
-      "Paneeltype": "OLED",
-      "BouwkwaliteitLaptops": "Topklasse"
-    }
-  },
-  {
-    "productTitle": "Acer Aspire 5 (A514-56P-71G8) Azerty",
-    "price": 799,
-    "reviews": 0,
-    "available": true,
-    "specifications": {
-      "Schermdiagonaal": 14,
-      "Processor": "Intel Core i7",
-      "InternWerkgeheugenRAM": 16,
-      "TotaleOpslagcapaciteit": 512,
-      "VideokaartChipset": "Intel UHD Graphics",
-      "AanbevolenVoorGebruik": "Films kijken in Full HD, Foto's bewerken, Internet, e-mail en tekstverwerken, Onderweg, Studie, Video's bewerken",
-      "Paneeltype": "IPS paneel",
-      "BouwkwaliteitLaptops": "Basisklasse"
-    }
-  },
-  {
-    "productTitle": "Acer Spin 5 (SP14-51MTN-74MR) Azerty",
-    "price": 999,
-    "reviews": 0,
-    "available": true,
-    "specifications": {
-      "Schermdiagonaal": 14,
-      "Processor": "Intel Core i7",
-      "InternWerkgeheugenRAM": 16,
-      "TotaleOpslagcapaciteit": 512,
-      "VideokaartChipset": "Intel UHD Graphics",
-      "AanbevolenVoorGebruik": "Films kijken in Full HD, Foto's bewerken, Internet, e-mail en tekstverwerken, Studie",
-      "Paneeltype": "IPS paneel",
-      "BouwkwaliteitLaptops": "Basisklasse"
-    }
-  },
-  {
-    "productTitle": "ASUS Expertbook B1402CBA-EB0386X-BE Azerty",
-    "price": 1049,
-    "reviews": 0,
-    "available": true,
-    "specifications": {
-      "Schermdiagonaal": 14,
-      "Processor": "Intel Core i7",
-      "InternWerkgeheugenRAM": 16,
-      "TotaleOpslagcapaciteit": 512,
-      "VideokaartChipset": "Intel UHD Graphics",
-      "AanbevolenVoorGebruik": "Films kijken in Full HD, Foto's bewerken, Internet, e-mail en tekstverwerken, Onderweg, Studie, Video's bewerken, Zakelijk gebruik",
-      "Paneeltype": "TN paneel",
-      "BouwkwaliteitLaptops": "Topklasse"
+      "schermdiagonaal": 13,
+      "processor": "Intel Core i7",
+      "internWerkgeheugenRAM": 16,
+      "totaleOpslagcapaciteit": 1,
+      "videokaartChipset": "Intel Iris Xe Graphics",
+      "aanbevolenVoorGebruik": "Films kijken in Full HD, Foto's bewerken, Internet, e-mail en tekstverwerken, Onderweg, Studie, Video's bewerken, Zakelijk gebruik",
+      "paneeltype": "LCD",
+      "bouwkwaliteitLaptops": "Middenklasse"
     }
   },
   {
@@ -133,94 +37,222 @@
     "reviews": 0,
     "available": true,
     "specifications": {
-      "Schermdiagonaal": 13,
-      "Processor": "Intel Core i7",
-      "InternWerkgeheugenRAM": 16,
-      "TotaleOpslagcapaciteit": 512,
-      "VideokaartChipset": "NVIDIA GeForce RTX 3050 Ti",
-      "AanbevolenVoorGebruik": "Films kijken in Full HD, Foto's bewerken, Gaming, Internet, e-mail en tekstverwerken, Onderweg, Studie, Video's bewerken",
-      "Paneeltype": "IPS paneel",
-      "BouwkwaliteitLaptops": "Middenklasse"
+      "schermdiagonaal": 13,
+      "processor": "Intel Core i7",
+      "internWerkgeheugenRAM": 16,
+      "totaleOpslagcapaciteit": 512,
+      "videokaartChipset": "NVIDIA GeForce RTX 3050 Ti",
+      "aanbevolenVoorGebruik": "Films kijken in Full HD, Foto's bewerken, Gaming, Internet, e-mail en tekstverwerken, Onderweg, Studie, Video's bewerken",
+      "paneeltype": "IPS paneel",
+      "bouwkwaliteitLaptops": "Middenklasse"
     }
   },
   {
-    "productTitle": "Acer Swift Go OLED SFG14-71-77G4 Azerty",
-    "price": 1149,
+    "productTitle": "Microsoft Surface Laptop 5 13\" i7/16GB/512GB BLACK Azerty",
+    "price": 1949,
     "reviews": 0,
     "available": true,
     "specifications": {
-      "Schermdiagonaal": 14,
-      "Processor": "Intel Core i7",
-      "InternWerkgeheugenRAM": 16,
-      "TotaleOpslagcapaciteit": 512,
-      "VideokaartChipset": "Intel UHD Graphics",
-      "AanbevolenVoorGebruik": "Films kijken in Full HD, Foto's bewerken, Internet, e-mail en tekstverwerken, Onderweg, Studie, Video's bewerken",
-      "Paneeltype": "OLED",
-      "BouwkwaliteitLaptops": "Basisklasse"
+      "schermdiagonaal": 13,
+      "processor": "Intel Core i7",
+      "internWerkgeheugenRAM": 16,
+      "totaleOpslagcapaciteit": 512,
+      "videokaartChipset": "Intel Iris Xe Graphics",
+      "aanbevolenVoorGebruik": "Films kijken in Full HD, Foto's bewerken, Internet, e-mail en tekstverwerken, Onderweg, Studie, Video's bewerken",
+      "bouwkwaliteitLaptops": "Middenklasse",
+      "snelheidsklasseLaptops": "Topklasse"
     }
   },
   {
-    "productTitle": "Apple MacBook Air (2022) M2 (8 core CPU/8 core GPU) 16GB/256GB Blauw AZERTY",
-    "price": 1489,
+    "productTitle": "Asus Zenbook s13 OLED UX5304VA-NQ075W-BE Azerty",
+    "price": 1699,
+    "reviews": 0,
+    "available": true,
+    "specifications": {
+      "schermdiagonaal": 13,
+      "processor": "Intel Core i7",
+      "internWerkgeheugenRAM": 16,
+      "totaleOpslagcapaciteit": 1,
+      "videokaartChipset": "Intel Iris Xe Graphics",
+      "aanbevolenVoorGebruik": "Films kijken in Full HD, Foto's bewerken, Internet, e-mail en tekstverwerken, Onderweg, Studie, Video's bewerken",
+      "paneeltype": "OLED",
+      "bouwkwaliteitLaptops": "Topklasse"
+    }
+  },
+  {
+    "productTitle": "Apple MacBook Air (2022) M2 (8 core CPU/8 core GPU) 16GB/512GB Space Gray AZERTY",
+    "price": 1729,
     "reviews": 243,
     "available": true,
     "specifications": {
-      "Schermdiagonaal": 13,
-      "Processor": "Apple M2-chip",
-      "InternWerkgeheugenRAM": 16,
-      "TotaleOpslagcapaciteit": 256,
-      "VideokaartChipset": "Apple M2-chip",
-      "AanbevolenVoorGebruik": "Films kijken in Full HD, Foto's bewerken, Internet, e-mail en tekstverwerken, Onderweg, Studie",
-      "Paneeltype": "IPS paneel",
-      "BouwkwaliteitLaptops": "Middenklasse"
+      "schermdiagonaal": 13,
+      "processor": "Apple M2-chip",
+      "internWerkgeheugenRAM": 16,
+      "totaleOpslagcapaciteit": 512,
+      "videokaartChipset": "Apple M2-chip",
+      "aanbevolenVoorGebruik": "Films kijken in Full HD, Foto's bewerken, Internet, e-mail en tekstverwerken, Onderweg, Studie",
+      "paneeltype": "IPS paneel",
+      "bouwkwaliteitLaptops": "Middenklasse"
     }
   },
   {
-    "productTitle": "Apple MacBook Air (2020) 16GB/256GB Apple M1 met 7 core GPU Space Gray AZERTY",
-    "price": 1159,
-    "reviews": 982,
-    "available": true,
-    "specifications": {
-      "Schermdiagonaal": 13,
-      "Processor": "Apple M1-chip",
-      "InternWerkgeheugenRAM": 16,
-      "TotaleOpslagcapaciteit": 256,
-      "VideokaartChipset": "Apple M1-chip",
-      "AanbevolenVoorGebruik": "Foto's bewerken, Internet, e-mail en tekstverwerken, Onderweg, Studie",
-      "Paneeltype": "IPS paneel",
-      "BouwkwaliteitLaptops": "Middenklasse"
-    }
-  },
-  {
-    "productTitle": "Apple MacBook Air (2022) M2 (8 core CPU/8 core GPU) 16GB/256GB Space Gray AZERTY",
-    "price": 1499,
+    "productTitle": "Apple MacBook Air (2022) M2 (8 core CPU/8 core GPU) 16GB/512GB Blauw AZERTY",
+    "price": 1719,
     "reviews": 243,
     "available": true,
     "specifications": {
-      "Schermdiagonaal": 13,
-      "Processor": "Apple M2-chip",
-      "InternWerkgeheugenRAM": 16,
-      "TotaleOpslagcapaciteit": 256,
-      "VideokaartChipset": "Apple M2-chip",
-      "AanbevolenVoorGebruik": "Films kijken in Full HD, Foto's bewerken, Internet, e-mail en tekstverwerken, Onderweg, Studie",
-      "Paneeltype": "IPS paneel",
-      "BouwkwaliteitLaptops": "Middenklasse"
+      "schermdiagonaal": 13,
+      "processor": "Apple M2-chip",
+      "internWerkgeheugenRAM": 16,
+      "totaleOpslagcapaciteit": 512,
+      "videokaartChipset": "Apple M2-chip",
+      "aanbevolenVoorGebruik": "Films kijken in Full HD, Foto's bewerken, Internet, e-mail en tekstverwerken, Onderweg, Studie",
+      "paneeltype": "IPS paneel",
+      "bouwkwaliteitLaptops": "Middenklasse"
     }
   },
   {
-    "productTitle": "Apple MacBook Air (2020) 16GB/256GB Apple M1 met 7 core GPU Goud AZERTY",
-    "price": 1299,
+    "productTitle": "Apple MacBook Air (2022) M2 (8 core CPU/10 core GPU) 16GB/512GB Blauw AZERTY",
+    "price": 1809,
+    "reviews": 243,
+    "available": true,
+    "specifications": {
+      "schermdiagonaal": 13,
+      "processor": "Apple M2-chip",
+      "internWerkgeheugenRAM": 16,
+      "totaleOpslagcapaciteit": 512,
+      "videokaartChipset": "Apple M2-chip",
+      "aanbevolenVoorGebruik": "Films kijken in Full HD, Foto's bewerken, Internet, e-mail en tekstverwerken, Onderweg, Studie",
+      "paneeltype": "IPS paneel",
+      "bouwkwaliteitLaptops": "Middenklasse"
+    }
+  },
+  {
+    "productTitle": "Apple MacBook Air (2022) M2 (8 core CPU/10 core GPU) 16GB/512GB Space Gray AZERTY",
+    "price": 1829,
+    "reviews": 243,
+    "available": true,
+    "specifications": {
+      "schermdiagonaal": 13,
+      "processor": "Apple M2-chip",
+      "internWerkgeheugenRAM": 16,
+      "totaleOpslagcapaciteit": 512,
+      "videokaartChipset": "Apple M2-chip",
+      "aanbevolenVoorGebruik": "Films kijken in Full HD, Foto's bewerken, Internet, e-mail en tekstverwerken, Onderweg, Studie",
+      "paneeltype": "IPS paneel",
+      "bouwkwaliteitLaptops": "Middenklasse"
+    }
+  },
+  {
+    "productTitle": "Apple MacBook Air (2020) 16GB/512GB Apple M1 met 7 core GPU Zilver AZERTY",
+    "price": 1629,
     "reviews": 982,
     "available": true,
     "specifications": {
-      "Schermdiagonaal": 13,
-      "Processor": "Apple M1-chip",
-      "InternWerkgeheugenRAM": 16,
-      "TotaleOpslagcapaciteit": 256,
-      "VideokaartChipset": "Apple M1-chip",
-      "AanbevolenVoorGebruik": "Foto's bewerken, Internet, e-mail en tekstverwerken, Onderweg, Studie",
-      "Paneeltype": "IPS paneel",
-      "BouwkwaliteitLaptops": "Middenklasse"
+      "schermdiagonaal": 13,
+      "processor": "Apple M1-chip",
+      "internWerkgeheugenRAM": 16,
+      "totaleOpslagcapaciteit": 512,
+      "videokaartChipset": "Apple M1-chip",
+      "aanbevolenVoorGebruik": "Foto's bewerken, Internet, e-mail en tekstverwerken, Onderweg, Studie",
+      "paneeltype": "IPS paneel",
+      "bouwkwaliteitLaptops": "Middenklasse"
+    }
+  },
+  {
+    "productTitle": "Apple MacBook Air (2022) M2 (8 core CPU/10 core GPU) 16GB/1TB Blauw AZERTY",
+    "price": 2049,
+    "reviews": 243,
+    "available": true,
+    "specifications": {
+      "schermdiagonaal": 13,
+      "processor": "Apple M2-chip",
+      "internWerkgeheugenRAM": 16,
+      "totaleOpslagcapaciteit": 1,
+      "videokaartChipset": "Apple M2-chip",
+      "aanbevolenVoorGebruik": "Films kijken in Full HD, Foto's bewerken, Internet, e-mail en tekstverwerken, Onderweg, Studie",
+      "paneeltype": "IPS paneel",
+      "bouwkwaliteitLaptops": "Middenklasse"
+    }
+  },
+  {
+    "productTitle": "Apple MacBook Air (2020) 16GB/512GB M1 7 core GPU SG AZERTY",
+    "price": 1519,
+    "reviews": 982,
+    "available": true,
+    "specifications": {
+      "schermdiagonaal": 13,
+      "processor": "Apple M1-chip",
+      "internWerkgeheugenRAM": 16,
+      "totaleOpslagcapaciteit": 512,
+      "videokaartChipset": "Apple M1-chip",
+      "aanbevolenVoorGebruik": "Foto's bewerken, Internet, e-mail en tekstverwerken, Onderweg, Studie",
+      "paneeltype": "IPS paneel",
+      "bouwkwaliteitLaptops": "Middenklasse"
+    }
+  },
+  {
+    "productTitle": "Apple MacBook Air (2022) M2 (8 core CPU/8 core GPU) 16GB/1TB Blauw AZERTY",
+    "price": 1919,
+    "reviews": 243,
+    "available": true,
+    "specifications": {
+      "schermdiagonaal": 13,
+      "processor": "Apple M2-chip",
+      "internWerkgeheugenRAM": 16,
+      "totaleOpslagcapaciteit": 1,
+      "videokaartChipset": "Apple M2-chip",
+      "aanbevolenVoorGebruik": "Films kijken in Full HD, Foto's bewerken, Internet, e-mail en tekstverwerken, Onderweg, Studie",
+      "paneeltype": "IPS paneel",
+      "bouwkwaliteitLaptops": "Middenklasse"
+    }
+  },
+  {
+    "productTitle": "Apple MacBook Air (2020) 16GB/1TB Apple M1 met 7 core GPU Space Gray AZERTY",
+    "price": 1609,
+    "reviews": 982,
+    "available": true,
+    "specifications": {
+      "schermdiagonaal": 13,
+      "processor": "Apple M1-chip",
+      "internWerkgeheugenRAM": 16,
+      "totaleOpslagcapaciteit": 1,
+      "videokaartChipset": "Apple M1-chip",
+      "aanbevolenVoorGebruik": "Foto's bewerken, Internet, e-mail en tekstverwerken, Onderweg, Studie",
+      "paneeltype": "IPS paneel",
+      "bouwkwaliteitLaptops": "Middenklasse"
+    }
+  },
+  {
+    "productTitle": "Apple MacBook Pro 13\" (2022) M2 (8 core CPU/10 core GPU) 16GB/1TB Space Gray AZERTY",
+    "price": 2139,
+    "reviews": 49,
+    "available": true,
+    "specifications": {
+      "schermdiagonaal": 13,
+      "processor": "Apple M2-chip",
+      "internWerkgeheugenRAM": 16,
+      "totaleOpslagcapaciteit": 1,
+      "videokaartChipset": "Apple M2-chip",
+      "aanbevolenVoorGebruik": "Films kijken in Full HD, Foto's bewerken, Gaming, Internet, e-mail en tekstverwerken, Onderweg, Studie, Video's bewerken",
+      "paneeltype": "IPS paneel",
+      "bouwkwaliteitLaptops": "Middenklasse"
+    }
+  },
+  {
+    "productTitle": "Apple MacBook Air (2020) 16GB/512GB Apple M1 met 7 core GPU Goud AZERTY",
+    "price": 1519,
+    "reviews": 982,
+    "available": true,
+    "specifications": {
+      "schermdiagonaal": 13,
+      "processor": "Apple M1-chip",
+      "internWerkgeheugenRAM": 16,
+      "totaleOpslagcapaciteit": 512,
+      "videokaartChipset": "Apple M1-chip",
+      "aanbevolenVoorGebruik": "Foto's bewerken, Internet, e-mail en tekstverwerken, Onderweg, Studie",
+      "paneeltype": "IPS paneel",
+      "bouwkwaliteitLaptops": "Middenklasse"
     }
   }
 ]

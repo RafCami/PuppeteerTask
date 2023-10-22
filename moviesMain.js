@@ -2,6 +2,10 @@ import readline from "readline";
 import { scrapeMoviesByGenre } from "./moviesScrape.js";
 import fs from "fs";
 
+/*Get 2 movies from 5 random genres
+  use user input to adjust genre ratings
+  get new list of movies from random genres with a bias to higher rated genres
+  repeat until user is happy with list*/
 async function MovieList() {
   //create initial Genre array
   //gets expanded as new genres are found
@@ -30,7 +34,7 @@ async function MovieList() {
   for (let i = 0; i < initGenres.length; i++) {
     genres[initGenres[i]].rating += scores[i] - 5;
   }
-  
+
   //loop start point
   let approval = false;
   do {
@@ -47,7 +51,7 @@ async function MovieList() {
         randomNumbers.push(randomNumber);
       }
     }
-    console.log('\n\nGetting new suggestions...\n\n');
+    console.log("\n\nGetting new suggestions...\n\n");
 
     //foreach random genre get 2 movies, don't add duplicates
     const movies = [];
@@ -55,8 +59,10 @@ async function MovieList() {
       const genre = genres[randomNumbers[i]];
       console.log(`Getting movies for ${genre.name}`);
       const genreMovies = await scrapeMoviesByGenre(genre.name, 2);
-      genreMovies.forEach(movie => {
-        if (!movies.find(m => m.Title === movie.Title && m.Year === movie.Year)) {
+      genreMovies.forEach((movie) => {
+        if (
+          !movies.find((m) => m.Title === movie.Title && m.Year === movie.Year)
+        ) {
           movies.push(movie);
         }
       });
@@ -126,7 +132,7 @@ async function MovieList() {
 
 //get genre scores from user
 function getGenreScores(genres, randomGenres, scores, index, callback) {
-    //after scores for all genres are entered, call callback function
+  //after scores for all genres are entered, call callback function
   if (index >= randomGenres.length) {
     callback(scores);
     return;
